@@ -20,7 +20,7 @@ An assignee is a person who has been assigned to manage an issue. This is inform
 
 ### Pull Requests
 
-Pull requests are the defacto way that code changes are merged into collaborative projects. Github (and other git providers) offer a mechanism for code to be reviewed and discussed before being merged into the repository.
+Pull requests are the de facto way that code changes are merged into collaborative projects. Github (and other git providers) offer a mechanism for code to be reviewed and discussed before being merged into the repository.
 
 #### Forks
 
